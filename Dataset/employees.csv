@@ -1,0 +1,501 @@
+Employee_ID,Employee_Name,Gender,Age,Designation,Department,Branch_ID,Joining_Date,Experience_Years,Salary,Employee_Status
+EMP_0001,Akash Agarwal,Female,46,Branch Manager,Management,BR_004,26-04-2017,9.3,663000,Active
+EMP_0002,Vikas Mishra,Female,36,Branch Manager,Management,BR_043,28-02-2025,1.5,753000,Active
+EMP_0003,Simran Shah,Female,28,Branch Manager,Management,BR_037,03-11-2020,5.8,475000,Active
+EMP_0004,Rajat Kumar,Male,29,Branch Manager,Management,BR_047,26-10-2019,6.8,783000,Active
+EMP_0005,Shreya Saxena,Male,47,Branch Manager,Management,BR_039,27-02-2018,8.5,797000,Active
+EMP_0006,Aarav Bansal,Male,31,Branch Manager,Management,BR_012,11-01-2022,4.6,1119000,Active
+EMP_0007,Neha Verma,Female,33,Branch Manager,Management,BR_045,18-04-2023,3.3,582000,Active
+EMP_0008,Kavya Gupta,Male,45,Branch Manager,Management,BR_018,10-01-2015,11.6,568000,Active
+EMP_0009,Vivaan Gupta,Female,34,Branch Manager,Management,BR_033,29-01-2021,5.6,788000,Active
+EMP_0010,Saurabh Shah,Female,36,Branch Manager,Management,BR_023,05-12-2025,0.7,797000,Active
+EMP_0011,Rajat Gupta,Male,31,Branch Manager,Management,BR_036,01-02-2018,8.5,554000,Active
+EMP_0012,Rahul Saxena,Female,34,Branch Manager,Management,BR_016,02-02-2018,8.5,577000,Active
+EMP_0013,Nandini Yadav,Male,47,Branch Manager,Management,BR_040,29-08-2024,2,747000,Active
+EMP_0014,Arjun Chauhan,Female,41,Branch Manager,Management,BR_048,07-09-2015,11,501000,Active
+EMP_0015,Neha Jain,Female,58,Branch Manager,Management,BR_014,17-05-2019,7.3,576000,Active
+EMP_0016,Rohan Malhotra,Female,50,Branch Manager,Management,BR_029,16-01-2020,6.6,666000,Active
+EMP_0017,Saurabh Sharma,Male,22,Branch Manager,Management,BR_046,11-10-2023,2.9,829000,Active
+EMP_0018,Karan Srivastava,Male,36,Branch Manager,Management,BR_040,02-06-2016,10.2,541000,Active
+EMP_0019,Vivaan Tiwari,Male,32,Branch Manager,Management,BR_025,11-10-2019,6.9,318000,Active
+EMP_0020,Manish Bansal,Male,43,Branch Manager,Management,BR_046,04-09-2016,10,305000,Active
+EMP_0021,Aditya Mehta,Male,31,Branch Manager,Management,BR_003,31-08-2023,3,423000,Active
+EMP_0022,Simran Chauhan,Male,57,Branch Manager,Management,BR_023,15-12-2021,4.7,414000,Active
+EMP_0023,Simran Singh,Female,33,Branch Manager,Management,BR_018,18-06-2020,6.2,622000,Active
+EMP_0024,Shreya Malhotra,Male,41,Branch Manager,Management,BR_024,28-04-2019,7.3,436000,Active
+EMP_0025,Amit Dixit,Male,26,Branch Manager,Management,BR_025,07-09-2016,9.9,524000,Active
+EMP_0026,Akash Dixit,Female,55,Branch Manager,Management,BR_008,21-02-2025,1.5,511000,Active
+EMP_0027,Ankit Malhotra,Female,55,Branch Manager,Management,BR_021,15-02-2022,4.5,571000,Active
+EMP_0028,Nandini Agarwal,Female,51,Branch Manager,Management,BR_041,06-07-2018,8.1,888000,Inactive
+EMP_0029,Shreya Agarwal,Female,35,Branch Manager,Management,BR_012,22-07-2019,7.1,769000,Active
+EMP_0030,Sneha Mehta,Female,24,Branch Manager,Management,BR_010,27-12-2022,3.6,653000,Active
+EMP_0031,Manish Gupta,Female,48,Branch Manager,Management,BR_020,01-12-2022,3.7,567000,Active
+EMP_0032,Aditi Tiwari,Male,37,Branch Manager,Management,BR_027,27-01-2020,6.6,572000,Active
+EMP_0033,Karan Singh,Female,58,Branch Manager,Management,BR_028,02-05-2018,8.3,709000,Active
+EMP_0034,Tanya Gupta,Male,47,Branch Manager,Management,BR_041,05-04-2022,4.4,755000,Active
+EMP_0035,Sneha Saxena,Male,41,Branch Manager,Management,BR_013,29-03-2022,4.4,487000,Active
+EMP_0036,Aarav Mehta,Male,58,Branch Manager,Management,BR_035,06-08-2021,5,657000,Active
+EMP_0037,Priya Agarwal,Male,51,Branch Manager,Management,BR_031,20-10-2015,10.8,300000,Active
+EMP_0038,Neha Srivastava,Female,38,Branch Manager,Management,BR_041,14-03-2020,6.4,688000,Active
+EMP_0039,Saurabh Srivastava,Male,22,Branch Manager,Management,BR_010,02-10-2021,4.9,787000,Inactive
+EMP_0040,Shreya Shah,Male,25,Branch Manager,Management,BR_024,14-06-2025,1.2,600000,Active
+EMP_0041,Nikhil Bansal,Male,38,Branch Manager,Management,BR_047,12-10-2020,5.9,977000,Active
+EMP_0042,Shreya Bansal,Female,42,Branch Manager,Management,BR_004,09-10-2018,7.9,491000,Active
+EMP_0043,Pooja Agarwal,Male,23,Branch Manager,Management,BR_008,11-02-2021,5.5,689000,Active
+EMP_0044,Sneha Tiwari,Female,26,Branch Manager,Management,BR_006,13-12-2016,9.7,644000,Active
+EMP_0045,Ankit Dixit,Female,48,Branch Manager,Management,BR_013,31-12-2015,10.6,632000,Active
+EMP_0046,Tanya Mehta,Male,49,Branch Manager,Management,BR_007,17-06-2022,4.2,629000,Active
+EMP_0047,Nikhil Dixit,Female,23,Branch Manager,Management,BR_010,06-11-2025,0.8,669000,Active
+EMP_0048,Ankit Patel,Male,40,Branch Manager,Management,BR_009,22-04-2024,2.3,803000,Active
+EMP_0049,Vikas Mehta,Male,24,Branch Manager,Management,BR_044,03-06-2021,5.2,898000,Active
+EMP_0050,Nikhil Tiwari,Female,48,Branch Manager,Management,BR_006,11-06-2015,11.2,650000,Active
+EMP_0051,Tanya Tiwari,Female,52,Relationship Manager,Sales,BR_018,13-11-2025,0.8,797000,Active
+EMP_0052,Aditya Agarwal,Male,54,Loan Officer,Loans,BR_011,12-12-2019,6.7,524000,Active
+EMP_0053,Akash Verma,Female,44,Customer Service Executive,Customer Service,BR_047,09-03-2018,8.4,788000,Active
+EMP_0054,Amit Singh,Male,45,Relationship Manager,Sales,BR_027,26-10-2024,1.8,513000,Active
+EMP_0055,Akash Joshi,Female,56,Teller,Operations,BR_009,19-03-2023,3.4,846000,Active
+EMP_0056,Tanya Agarwal,Female,44,Loan Officer,Loans,BR_045,31-03-2023,3.4,1048000,Active
+EMP_0057,Isha Kumar,Female,38,Loan Officer,Loans,BR_045,21-01-2018,8.6,628000,Active
+EMP_0058,Sneha Mehta,Female,49,Relationship Manager,Sales,BR_030,29-11-2025,0.7,300000,Active
+EMP_0059,Kavya Yadav,Male,43,Relationship Manager,Sales,BR_033,25-12-2019,6.7,551000,Active
+EMP_0060,Akash Mishra,Female,53,Operations Executive,Operations,BR_041,05-11-2020,5.8,872000,Active
+EMP_0061,Akash Chauhan,Female,41,Branch Manager,Management,BR_048,06-04-2023,3.4,750000,Active
+EMP_0062,Tanya Bansal,Female,54,Customer Service Executive,Customer Service,BR_009,05-04-2022,4.4,695000,Active
+EMP_0063,Rahul Mehta,Male,23,Customer Service Executive,Customer Service,BR_017,23-11-2016,9.7,832000,Active
+EMP_0064,Arjun Patel,Male,23,Loan Officer,Loans,BR_008,30-04-2018,8.3,737000,Active
+EMP_0065,Tanya Verma,Male,25,Sales Executive,Sales,BR_018,22-12-2018,7.7,869000,Inactive
+EMP_0066,Aditi Bansal,Male,42,Loan Officer,Loans,BR_004,04-06-2025,1.2,815000,Active
+EMP_0067,Isha Agarwal,Male,48,Relationship Manager,Sales,BR_032,10-11-2022,3.8,924000,Active
+EMP_0068,Arjun Bansal,Male,30,Customer Service Executive,Customer Service,BR_015,11-01-2019,7.6,715000,Active
+EMP_0069,Simran Mehta,Female,27,Teller,Operations,BR_015,31-01-2023,3.6,813000,Active
+EMP_0070,Tanya Sharma,Male,53,Sales Executive,Sales,BR_026,15-02-2023,3.5,595000,Active
+EMP_0071,Ananya Sharma,Female,49,Sales Executive,Sales,BR_021,03-05-2019,7.3,542000,Active
+EMP_0072,Nandini Patel,Male,45,Sales Executive,Sales,BR_046,08-06-2019,7.2,957000,Active
+EMP_0073,Simran Mehta,Female,40,Teller,Operations,BR_038,02-11-2024,1.8,689000,Active
+EMP_0074,Aditya Sharma,Male,37,Relationship Manager,Sales,BR_042,07-03-2021,5.5,795000,Active
+EMP_0075,Vikas Joshi,Male,22,Customer Service Executive,Customer Service,BR_037,23-08-2016,10,672000,Active
+EMP_0076,Rohan Saxena,Female,28,Sales Executive,Sales,BR_042,02-12-2022,3.7,544000,Active
+EMP_0077,Varun Dixit,Female,55,Customer Service Executive,Customer Service,BR_037,26-06-2021,5.1,652000,Active
+EMP_0078,Karan Dixit,Male,34,Teller,Operations,BR_008,06-08-2020,6,908000,Active
+EMP_0079,Saurabh Sharma,Male,48,Loan Officer,Loans,BR_022,23-12-2022,3.7,750000,Active
+EMP_0080,Priya Yadav,Female,48,Teller,Operations,BR_043,23-12-2024,1.7,342000,Active
+EMP_0081,Nandini Tiwari,Female,33,Teller,Operations,BR_040,20-08-2018,8,611000,Active
+EMP_0082,Meera Saxena,Male,29,Loan Officer,Loans,BR_001,12-08-2019,7,971000,Active
+EMP_0083,Tanya Agarwal,Male,47,Operations Executive,Operations,BR_022,31-01-2017,9.5,612000,Active
+EMP_0084,Isha Mehta,Male,25,Sales Executive,Sales,BR_019,12-02-2022,4.5,326000,Active
+EMP_0085,Vivaan Mishra,Female,40,Teller,Operations,BR_005,07-06-2019,7.2,991000,Active
+EMP_0086,Neha Singh,Male,54,Customer Service Executive,Customer Service,BR_032,07-10-2018,7.9,773000,Active
+EMP_0087,Saurabh Yadav,Male,48,Loan Officer,Loans,BR_047,30-08-2022,4,637000,Inactive
+EMP_0088,Rohan Dixit,Female,50,Sales Executive,Sales,BR_046,28-06-2019,7.1,583000,Active
+EMP_0089,Karan Jain,Male,25,Relationship Manager,Sales,BR_041,09-02-2020,6.5,845000,Active
+EMP_0090,Varun Malhotra,Male,29,Customer Service Executive,Customer Service,BR_024,04-11-2019,6.8,552000,Active
+EMP_0091,Aditya Malhotra,Male,32,Operations Executive,Operations,BR_044,04-11-2017,8.8,857000,Active
+EMP_0092,Sneha Saxena,Male,32,Sales Executive,Sales,BR_011,20-05-2016,10.3,748000,Active
+EMP_0093,Isha Singh,Male,29,Relationship Manager,Sales,BR_024,06-02-2024,2.5,694000,Active
+EMP_0094,Simran Mehta,Male,57,Customer Service Executive,Customer Service,BR_022,04-01-2016,10.6,676000,Inactive
+EMP_0095,Nandini Saxena,Female,28,Relationship Manager,Sales,BR_023,29-07-2018,8.1,619000,Active
+EMP_0096,Priya Agarwal,Female,48,Branch Manager,Management,BR_002,05-05-2022,4.3,838000,Inactive
+EMP_0097,Arjun Gupta,Male,43,Operations Executive,Operations,BR_036,11-06-2016,10.2,494000,Active
+EMP_0098,Nikhil Chauhan,Female,44,Loan Officer,Loans,BR_012,18-03-2022,4.4,358000,Active
+EMP_0099,Akash Dixit,Male,29,Customer Service Executive,Customer Service,BR_034,24-01-2023,3.6,761000,Active
+EMP_0100,Varun Mehta,Female,33,Sales Executive,Sales,BR_046,17-04-2022,4.3,764000,Active
+EMP_0101,Aditi Malhotra,Male,44,Branch Manager,Management,BR_021,10-05-2018,8.3,736000,Active
+EMP_0102,Pooja Shah,Female,33,Customer Service Executive,Customer Service,BR_012,21-03-2015,11.4,723000,Active
+EMP_0103,Simran Srivastava,Male,47,Sales Executive,Sales,BR_011,05-10-2024,1.9,592000,Active
+EMP_0104,Nandini Agarwal,Female,23,Sales Executive,Sales,BR_025,05-08-2018,8,792000,Active
+EMP_0105,Arjun Srivastava,Male,24,Operations Executive,Operations,BR_007,09-11-2023,2.8,642000,Active
+EMP_0106,Arjun Gupta,Female,48,Sales Executive,Sales,BR_027,05-03-2017,9.5,562000,Active
+EMP_0107,Meera Yadav,Male,44,Loan Officer,Loans,BR_034,14-10-2016,9.8,594000,Active
+EMP_0108,Karan Chauhan,Female,23,Teller,Operations,BR_014,24-07-2023,3.1,1014000,Active
+EMP_0109,Aditya Mishra,Male,55,Operations Executive,Operations,BR_011,03-05-2025,1.3,338000,Active
+EMP_0110,Pooja Tiwari,Female,22,Teller,Operations,BR_015,20-06-2024,2.2,740000,Active
+EMP_0111,Pooja Saxena,Female,57,Operations Executive,Operations,BR_047,07-04-2023,3.4,348000,Active
+EMP_0112,Vivaan Sharma,Female,48,Teller,Operations,BR_019,18-09-2017,8.9,631000,Active
+EMP_0113,Nandini Jain,Male,58,Teller,Operations,BR_044,17-01-2025,1.6,572000,Active
+EMP_0114,Akash Dixit,Male,57,Relationship Manager,Sales,BR_039,07-05-2022,4.3,300000,Active
+EMP_0115,Saurabh Patel,Male,33,Teller,Operations,BR_033,22-11-2016,9.7,720000,Active
+EMP_0116,Priya Singh,Male,49,Loan Officer,Loans,BR_010,03-06-2016,10.2,582000,Active
+EMP_0117,Ananya Patel,Female,29,Sales Executive,Sales,BR_003,01-08-2024,2.1,300000,Active
+EMP_0118,Arjun Agarwal,Female,39,Sales Executive,Sales,BR_016,10-01-2018,8.6,801000,Active
+EMP_0119,Sneha Shah,Female,30,Operations Executive,Operations,BR_036,05-06-2023,3.2,908000,Active
+EMP_0120,Rohan Sharma,Male,39,Operations Executive,Operations,BR_003,11-07-2016,10.1,918000,Active
+EMP_0121,Priya Dixit,Female,54,Customer Service Executive,Customer Service,BR_041,01-02-2018,8.5,715000,Active
+EMP_0122,Nandini Jain,Female,38,Teller,Operations,BR_046,13-02-2018,8.5,658000,Active
+EMP_0123,Simran Kumar,Female,25,Teller,Operations,BR_010,03-02-2018,8.5,889000,Active
+EMP_0124,Saurabh Gupta,Male,34,Customer Service Executive,Customer Service,BR_018,04-06-2022,4.2,953000,Active
+EMP_0125,Priya Singh,Male,51,Relationship Manager,Sales,BR_026,22-01-2025,1.6,854000,Active
+EMP_0126,Manish Tiwari,Female,41,Branch Manager,Management,BR_030,05-01-2025,1.6,481000,Active
+EMP_0127,Rahul Verma,Male,42,Teller,Operations,BR_013,27-02-2023,3.5,686000,Active
+EMP_0128,Akash Bansal,Male,37,Loan Officer,Loans,BR_002,24-03-2017,9.4,729000,Active
+EMP_0129,Rahul Srivastava,Female,32,Operations Executive,Operations,BR_019,26-07-2025,1.1,324000,Active
+EMP_0130,Karan Chauhan,Female,44,Loan Officer,Loans,BR_038,18-12-2020,5.7,734000,Active
+EMP_0131,Rajat Malhotra,Female,45,Operations Executive,Operations,BR_040,02-01-2021,5.6,1059000,Active
+EMP_0132,Varun Verma,Female,55,Loan Officer,Loans,BR_013,19-09-2022,3.9,765000,Active
+EMP_0133,Priya Patel,Male,44,Teller,Operations,BR_029,18-06-2023,3.2,915000,Active
+EMP_0134,Tanya Saxena,Male,58,Relationship Manager,Sales,BR_006,25-06-2025,1.2,683000,Active
+EMP_0135,Meera Shah,Male,52,Sales Executive,Sales,BR_016,29-05-2021,5.2,637000,Active
+EMP_0136,Vikas Srivastava,Female,24,Teller,Operations,BR_039,17-09-2021,4.9,719000,Inactive
+EMP_0137,Rohan Srivastava,Male,36,Operations Executive,Operations,BR_034,15-03-2023,3.4,503000,Active
+EMP_0138,Vikas Sharma,Female,36,Teller,Operations,BR_015,22-10-2017,8.8,477000,Active
+EMP_0139,Karan Jain,Male,22,Branch Manager,Management,BR_005,21-05-2018,8.2,878000,Active
+EMP_0140,Nikhil Malhotra,Female,28,Customer Service Executive,Customer Service,BR_014,18-11-2021,4.8,897000,Active
+EMP_0141,Manish Malhotra,Male,50,Branch Manager,Management,BR_025,15-09-2015,10.9,472000,Active
+EMP_0142,Aditi Sharma,Male,35,Relationship Manager,Sales,BR_005,11-07-2018,8.1,824000,Active
+EMP_0143,Karan Joshi,Male,27,Sales Executive,Sales,BR_007,24-11-2022,3.7,634000,Active
+EMP_0144,Riya Tiwari,Male,32,Teller,Operations,BR_021,27-09-2025,0.9,711000,Active
+EMP_0145,Akash Bansal,Female,32,Teller,Operations,BR_023,18-09-2020,5.9,733000,Active
+EMP_0146,Nikhil Sharma,Male,28,Teller,Operations,BR_047,25-05-2019,7.2,829000,Active
+EMP_0147,Amit Bansal,Male,25,Teller,Operations,BR_014,05-11-2019,6.8,665000,Active
+EMP_0148,Kavya Chauhan,Female,50,Teller,Operations,BR_034,17-07-2022,4.1,904000,Active
+EMP_0149,Simran Gupta,Female,52,Branch Manager,Management,BR_014,27-12-2020,5.6,706000,Active
+EMP_0150,Ankit Verma,Male,40,Customer Service Executive,Customer Service,BR_028,04-04-2015,11.4,762000,Active
+EMP_0151,Aarav Chauhan,Male,44,Sales Executive,Sales,BR_005,06-12-2020,5.7,500000,Active
+EMP_0152,Nandini Singh,Male,56,Teller,Operations,BR_021,27-05-2019,7.2,1039000,Active
+EMP_0153,Pooja Jain,Female,53,Branch Manager,Management,BR_042,16-09-2022,3.9,735000,Active
+EMP_0154,Aditya Bansal,Male,23,Loan Officer,Loans,BR_025,17-08-2024,2,778000,Inactive
+EMP_0155,Meera Mehta,Male,57,Sales Executive,Sales,BR_022,03-08-2025,1,361000,Inactive
+EMP_0156,Pooja Agarwal,Male,24,Branch Manager,Management,BR_032,17-09-2021,4.9,502000,Active
+EMP_0157,Sneha Srivastava,Female,22,Customer Service Executive,Customer Service,BR_031,27-12-2018,7.6,873000,Active
+EMP_0158,Tanya Verma,Male,36,Operations Executive,Operations,BR_042,19-11-2019,6.8,702000,Active
+EMP_0159,Rahul Malhotra,Female,49,Sales Executive,Sales,BR_031,10-12-2016,9.7,306000,Active
+EMP_0160,Ankit Tiwari,Male,24,Customer Service Executive,Customer Service,BR_012,18-04-2025,1.3,837000,Active
+EMP_0161,Sneha Singh,Female,32,Teller,Operations,BR_001,27-04-2024,2.3,552000,Active
+EMP_0162,Akash Mishra,Male,31,Customer Service Executive,Customer Service,BR_049,24-05-2024,2.2,904000,Active
+EMP_0163,Rahul Malhotra,Male,36,Teller,Operations,BR_005,11-08-2018,8,634000,Active
+EMP_0164,Rahul Verma,Male,58,Customer Service Executive,Customer Service,BR_004,18-07-2018,8.1,687000,Inactive
+EMP_0165,Neha Saxena,Female,34,Sales Executive,Sales,BR_019,03-06-2024,2.2,862000,Active
+EMP_0166,Arjun Joshi,Female,29,Customer Service Executive,Customer Service,BR_017,27-12-2020,5.6,488000,Active
+EMP_0167,Riya Chauhan,Male,26,Customer Service Executive,Customer Service,BR_032,02-10-2022,3.9,471000,Inactive
+EMP_0168,Arjun Malhotra,Male,29,Operations Executive,Operations,BR_034,22-05-2020,6.2,615000,Active
+EMP_0169,Ananya Chauhan,Female,26,Relationship Manager,Sales,BR_045,15-11-2019,6.8,799000,Active
+EMP_0170,Vikas Bansal,Male,43,Relationship Manager,Sales,BR_042,15-12-2021,4.7,410000,Active
+EMP_0171,Ananya Gupta,Male,37,Customer Service Executive,Customer Service,BR_031,11-12-2023,2.7,350000,Active
+EMP_0172,Simran Yadav,Male,40,Teller,Operations,BR_012,04-09-2018,8,798000,Active
+EMP_0173,Amit Jain,Female,52,Teller,Operations,BR_039,26-11-2023,2.7,541000,Active
+EMP_0174,Nikhil Jain,Female,43,Operations Executive,Operations,BR_001,08-09-2017,8.9,579000,Active
+EMP_0175,Nandini Saxena,Female,27,Customer Service Executive,Customer Service,BR_028,07-06-2019,7.2,316000,Active
+EMP_0176,Karan Malhotra,Female,35,Customer Service Executive,Customer Service,BR_049,15-01-2025,1.6,528000,Active
+EMP_0177,Saurabh Joshi,Male,33,Relationship Manager,Sales,BR_002,01-07-2025,1.1,649000,Active
+EMP_0178,Kavya Dixit,Male,52,Sales Executive,Sales,BR_013,01-03-2025,1.5,817000,Active
+EMP_0179,Saurabh Dixit,Male,33,Operations Executive,Operations,BR_020,23-06-2018,8.2,511000,Active
+EMP_0180,Isha Agarwal,Male,27,Sales Executive,Sales,BR_018,11-04-2024,2.4,948000,Active
+EMP_0181,Ankit Agarwal,Male,49,Sales Executive,Sales,BR_037,19-04-2025,1.3,527000,Active
+EMP_0182,Rahul Agarwal,Male,37,Customer Service Executive,Customer Service,BR_030,05-10-2025,0.9,527000,Active
+EMP_0183,Arjun Verma,Male,25,Operations Executive,Operations,BR_031,25-03-2015,11.4,927000,Active
+EMP_0184,Pooja Verma,Female,47,Loan Officer,Loans,BR_040,13-03-2023,3.4,688000,Active
+EMP_0185,Priya Yadav,Male,29,Relationship Manager,Sales,BR_043,18-12-2025,0.7,551000,Active
+EMP_0186,Pooja Srivastava,Male,54,Customer Service Executive,Customer Service,BR_028,31-05-2023,3.2,622000,Active
+EMP_0187,Rahul Bansal,Female,52,Relationship Manager,Sales,BR_015,25-07-2017,9.1,894000,Active
+EMP_0188,Isha Shah,Female,35,Relationship Manager,Sales,BR_010,23-05-2023,3.2,914000,Active
+EMP_0189,Aditya Sharma,Female,42,Branch Manager,Management,BR_037,27-02-2016,10.5,503000,Active
+EMP_0190,Amit Singh,Female,43,Loan Officer,Loans,BR_012,15-04-2020,6.3,642000,Active
+EMP_0191,Isha Kumar,Female,46,Sales Executive,Sales,BR_006,21-11-2021,4.7,666000,Active
+EMP_0192,Ankit Malhotra,Male,24,Customer Service Executive,Customer Service,BR_025,09-01-2020,6.6,472000,Active
+EMP_0193,Shreya Kumar,Male,34,Loan Officer,Loans,BR_048,12-09-2022,3.9,640000,Active
+EMP_0194,Nikhil Jain,Female,28,Operations Executive,Operations,BR_044,23-08-2017,9,651000,Active
+EMP_0195,Aditi Bansal,Male,47,Teller,Operations,BR_004,01-09-2021,5,855000,Active
+EMP_0196,Meera Malhotra,Male,24,Sales Executive,Sales,BR_020,03-02-2022,4.5,867000,Active
+EMP_0197,Vivaan Kumar,Male,41,Customer Service Executive,Customer Service,BR_016,21-12-2021,4.7,591000,Active
+EMP_0198,Riya Sharma,Male,48,Operations Executive,Operations,BR_007,08-03-2018,8.5,611000,Active
+EMP_0199,Vikas Singh,Male,57,Customer Service Executive,Customer Service,BR_009,12-05-2018,8.3,770000,Active
+EMP_0200,Simran Verma,Male,32,Customer Service Executive,Customer Service,BR_010,01-11-2017,8.8,545000,Active
+EMP_0201,Rohan Singh,Female,22,Operations Executive,Operations,BR_039,30-01-2020,6.6,756000,Active
+EMP_0202,Rohan Mehta,Female,48,Loan Officer,Loans,BR_011,12-06-2021,5.2,634000,Active
+EMP_0203,Vikas Bansal,Male,22,Teller,Operations,BR_019,27-12-2018,7.6,476000,Active
+EMP_0204,Varun Jain,Female,24,Sales Executive,Sales,BR_031,06-07-2019,7.1,478000,Active
+EMP_0205,Aditi Shah,Male,58,Sales Executive,Sales,BR_045,24-02-2018,8.5,910000,Active
+EMP_0206,Sneha Kumar,Female,53,Customer Service Executive,Customer Service,BR_039,29-05-2017,9.2,622000,Active
+EMP_0207,Akash Chauhan,Female,48,Customer Service Executive,Customer Service,BR_032,26-03-2022,4.4,945000,Active
+EMP_0208,Isha Shah,Male,52,Customer Service Executive,Customer Service,BR_001,23-12-2023,2.7,558000,Active
+EMP_0209,Aditi Saxena,Female,24,Relationship Manager,Sales,BR_050,14-03-2018,8.4,702000,Active
+EMP_0210,Ananya Bansal,Female,25,Operations Executive,Operations,BR_046,19-06-2024,2.2,1081000,Active
+EMP_0211,Arjun Tiwari,Female,33,Customer Service Executive,Customer Service,BR_038,13-04-2021,5.4,460000,Active
+EMP_0212,Arjun Verma,Female,22,Sales Executive,Sales,BR_015,04-11-2016,9.8,308000,Active
+EMP_0213,Manish Kumar,Female,54,Teller,Operations,BR_040,10-01-2019,7.6,882000,Active
+EMP_0214,Rajat Srivastava,Male,24,Teller,Operations,BR_006,31-01-2015,11.6,501000,Active
+EMP_0215,Ananya Bansal,Female,42,Loan Officer,Loans,BR_016,07-06-2015,11.2,646000,Active
+EMP_0216,Isha Agarwal,Female,53,Loan Officer,Loans,BR_010,12-09-2018,7.9,545000,Active
+EMP_0217,Amit Yadav,Female,49,Operations Executive,Operations,BR_033,01-01-2020,6.6,698000,Active
+EMP_0218,Arjun Jain,Male,30,Sales Executive,Sales,BR_028,10-10-2023,2.9,479000,Active
+EMP_0219,Rajat Singh,Female,39,Teller,Operations,BR_019,23-06-2016,10.2,618000,Active
+EMP_0220,Ananya Tiwari,Male,42,Operations Executive,Operations,BR_001,25-03-2024,2.4,731000,Active
+EMP_0221,Rahul Patel,Female,50,Teller,Operations,BR_008,31-07-2017,9.1,469000,Active
+EMP_0222,Rahul Patel,Male,37,Relationship Manager,Sales,BR_011,09-07-2016,10.1,524000,Active
+EMP_0223,Rohan Srivastava,Female,32,Sales Executive,Sales,BR_043,13-09-2022,3.9,587000,Active
+EMP_0224,Shreya Kumar,Female,51,Relationship Manager,Sales,BR_024,09-07-2023,3.1,393000,Active
+EMP_0225,Sneha Joshi,Male,54,Sales Executive,Sales,BR_032,27-08-2021,5,574000,Active
+EMP_0226,Simran Singh,Male,40,Operations Executive,Operations,BR_007,09-04-2016,10.4,671000,Active
+EMP_0227,Pooja Bansal,Male,23,Loan Officer,Loans,BR_022,08-04-2016,10.4,578000,Active
+EMP_0228,Kavya Singh,Female,40,Loan Officer,Loans,BR_037,17-04-2019,7.3,601000,Active
+EMP_0229,Shreya Gupta,Female,54,Branch Manager,Management,BR_048,16-12-2019,6.7,646000,Active
+EMP_0230,Priya Dixit,Male,58,Operations Executive,Operations,BR_044,26-12-2025,0.6,532000,Inactive
+EMP_0231,Akash Jain,Male,36,Relationship Manager,Sales,BR_049,25-02-2018,8.5,774000,Active
+EMP_0232,Aarav Jain,Male,27,Branch Manager,Management,BR_012,12-02-2017,9.5,908000,Active
+EMP_0233,Nandini Srivastava,Male,43,Customer Service Executive,Customer Service,BR_028,28-05-2025,1.2,566000,Active
+EMP_0234,Ankit Malhotra,Female,52,Relationship Manager,Sales,BR_037,10-09-2016,9.9,737000,Active
+EMP_0235,Aditya Dixit,Female,56,Loan Officer,Loans,BR_019,17-04-2015,11.3,607000,Active
+EMP_0236,Akash Dixit,Male,23,Loan Officer,Loans,BR_016,26-08-2019,7,716000,Active
+EMP_0237,Simran Srivastava,Female,32,Customer Service Executive,Customer Service,BR_026,31-05-2019,7.2,932000,Active
+EMP_0238,Tanya Verma,Male,39,Relationship Manager,Sales,BR_043,25-10-2021,4.8,742000,Active
+EMP_0239,Kavya Mehta,Female,25,Relationship Manager,Sales,BR_014,27-08-2024,2,331000,Active
+EMP_0240,Varun Kumar,Male,54,Customer Service Executive,Customer Service,BR_023,06-04-2025,1.4,732000,Active
+EMP_0241,Pooja Shah,Female,26,Relationship Manager,Sales,BR_018,09-03-2018,8.4,872000,Active
+EMP_0242,Ananya Verma,Female,46,Sales Executive,Sales,BR_004,15-10-2025,0.8,610000,Active
+EMP_0243,Priya Malhotra,Male,55,Relationship Manager,Sales,BR_020,17-12-2021,4.7,829000,Active
+EMP_0244,Aarav Dixit,Female,47,Customer Service Executive,Customer Service,BR_017,07-10-2015,10.9,526000,Inactive
+EMP_0245,Manish Saxena,Female,50,Customer Service Executive,Customer Service,BR_029,28-04-2025,1.3,383000,Active
+EMP_0246,Ankit Dixit,Male,31,Loan Officer,Loans,BR_032,08-07-2016,10.1,675000,Active
+EMP_0247,Pooja Verma,Male,52,Branch Manager,Management,BR_042,22-06-2021,5.2,334000,Active
+EMP_0248,Shreya Chauhan,Female,37,Relationship Manager,Sales,BR_019,13-09-2023,2.9,607000,Active
+EMP_0249,Pooja Shah,Male,24,Teller,Operations,BR_004,29-09-2017,8.9,882000,Active
+EMP_0250,Kavya Yadav,Male,35,Branch Manager,Management,BR_006,23-12-2017,8.7,306000,Active
+EMP_0251,Simran Srivastava,Male,34,Loan Officer,Loans,BR_034,28-03-2020,6.4,420000,Active
+EMP_0252,Saurabh Shah,Female,41,Loan Officer,Loans,BR_022,25-09-2024,1.9,464000,Active
+EMP_0253,Rahul Saxena,Male,31,Customer Service Executive,Customer Service,BR_016,17-06-2017,9.2,639000,Active
+EMP_0254,Sneha Shah,Male,39,Loan Officer,Loans,BR_034,19-04-2022,4.3,584000,Active
+EMP_0255,Amit Tiwari,Female,37,Teller,Operations,BR_050,24-12-2019,6.7,902000,Active
+EMP_0256,Saurabh Patel,Male,34,Teller,Operations,BR_007,25-03-2016,10.4,822000,Active
+EMP_0257,Sneha Patel,Female,47,Customer Service Executive,Customer Service,BR_050,27-10-2022,3.8,739000,Active
+EMP_0258,Simran Malhotra,Male,33,Customer Service Executive,Customer Service,BR_004,28-02-2024,2.5,676000,Active
+EMP_0259,Pooja Agarwal,Female,50,Customer Service Executive,Customer Service,BR_032,01-05-2021,5.3,721000,Active
+EMP_0260,Priya Srivastava,Female,31,Loan Officer,Loans,BR_026,09-12-2016,9.7,495000,Active
+EMP_0261,Ananya Chauhan,Male,54,Sales Executive,Sales,BR_005,17-09-2016,9.9,804000,Active
+EMP_0262,Nikhil Jain,Female,35,Relationship Manager,Sales,BR_007,29-08-2019,7,450000,Inactive
+EMP_0263,Vivaan Joshi,Male,23,Customer Service Executive,Customer Service,BR_036,27-07-2020,6.1,800000,Active
+EMP_0264,Manish Dixit,Male,27,Operations Executive,Operations,BR_038,27-01-2021,5.6,864000,Inactive
+EMP_0265,Akash Kumar,Male,51,Branch Manager,Management,BR_022,06-09-2017,9,688000,Active
+EMP_0266,Priya Joshi,Female,54,Loan Officer,Loans,BR_013,05-07-2020,6.1,618000,Active
+EMP_0267,Vikas Gupta,Male,29,Teller,Operations,BR_024,31-03-2018,8.4,722000,Active
+EMP_0268,Nikhil Singh,Male,44,Relationship Manager,Sales,BR_016,20-07-2022,4.1,300000,Active
+EMP_0269,Nikhil Shah,Male,43,Branch Manager,Management,BR_005,06-10-2023,2.9,704000,Active
+EMP_0270,Arjun Joshi,Male,26,Relationship Manager,Sales,BR_038,07-03-2022,4.5,630000,Active
+EMP_0271,Karan Saxena,Male,38,Operations Executive,Operations,BR_003,06-01-2015,11.6,641000,Active
+EMP_0272,Pooja Mishra,Male,47,Branch Manager,Management,BR_018,30-11-2025,0.7,777000,Active
+EMP_0273,Riya Gupta,Male,57,Relationship Manager,Sales,BR_001,06-04-2015,11.4,637000,Active
+EMP_0274,Aditya Malhotra,Male,53,Branch Manager,Management,BR_028,29-12-2025,0.6,445000,Active
+EMP_0275,Shreya Singh,Female,25,Relationship Manager,Sales,BR_046,08-05-2015,11.3,625000,Active
+EMP_0276,Ankit Singh,Male,30,Sales Executive,Sales,BR_050,06-09-2020,6,662000,Active
+EMP_0277,Nikhil Mishra,Female,38,Customer Service Executive,Customer Service,BR_043,01-03-2016,10.5,671000,Active
+EMP_0278,Amit Jain,Male,27,Sales Executive,Sales,BR_020,18-01-2016,10.6,679000,Active
+EMP_0279,Rahul Saxena,Male,43,Sales Executive,Sales,BR_009,08-07-2022,4.1,837000,Active
+EMP_0280,Pooja Yadav,Male,22,Teller,Operations,BR_040,03-01-2023,3.6,455000,Active
+EMP_0281,Rahul Joshi,Male,26,Branch Manager,Management,BR_008,20-04-2016,10.3,682000,Active
+EMP_0282,Isha Singh,Male,23,Teller,Operations,BR_039,29-09-2025,0.9,882000,Active
+EMP_0283,Kavya Agarwal,Female,32,Sales Executive,Sales,BR_005,11-07-2018,8.1,338000,Active
+EMP_0284,Sneha Dixit,Male,50,Relationship Manager,Sales,BR_017,03-07-2018,8.1,682000,Active
+EMP_0285,Shreya Gupta,Male,28,Teller,Operations,BR_043,08-04-2018,8.4,545000,Active
+EMP_0286,Nikhil Mishra,Female,58,Teller,Operations,BR_035,28-01-2020,6.6,583000,Active
+EMP_0287,Varun Tiwari,Male,31,Customer Service Executive,Customer Service,BR_029,15-12-2016,9.7,487000,Active
+EMP_0288,Nikhil Gupta,Male,23,Operations Executive,Operations,BR_002,03-09-2019,7,619000,Active
+EMP_0289,Pooja Mehta,Male,34,Loan Officer,Loans,BR_026,23-04-2017,9.3,981000,Inactive
+EMP_0290,Shreya Joshi,Male,49,Sales Executive,Sales,BR_017,26-07-2015,11.1,422000,Active
+EMP_0291,Rohan Verma,Male,25,Operations Executive,Operations,BR_008,21-01-2019,7.6,439000,Active
+EMP_0292,Rajat Dixit,Female,24,Customer Service Executive,Customer Service,BR_034,25-05-2022,4.2,416000,Active
+EMP_0293,Varun Yadav,Female,53,Teller,Operations,BR_021,25-05-2023,3.2,961000,Active
+EMP_0294,Priya Joshi,Male,43,Customer Service Executive,Customer Service,BR_026,20-11-2018,7.7,567000,Active
+EMP_0295,Arjun Chauhan,Female,34,Teller,Operations,BR_001,24-07-2018,8.1,645000,Active
+EMP_0296,Karan Srivastava,Female,49,Sales Executive,Sales,BR_049,31-08-2023,3,577000,Active
+EMP_0297,Saurabh Chauhan,Male,53,Relationship Manager,Sales,BR_013,30-06-2022,4.1,480000,Inactive
+EMP_0298,Ankit Kumar,Female,35,Loan Officer,Loans,BR_005,26-02-2024,2.5,608000,Active
+EMP_0299,Vikas Agarwal,Female,42,Customer Service Executive,Customer Service,BR_030,19-12-2024,1.7,1092000,Active
+EMP_0300,Rahul Singh,Female,22,Relationship Manager,Sales,BR_030,13-01-2024,2.6,901000,Active
+EMP_0301,Karan Dixit,Female,33,Branch Manager,Management,BR_024,20-04-2025,1.3,496000,Active
+EMP_0302,Vikas Agarwal,Male,44,Customer Service Executive,Customer Service,BR_021,02-08-2019,7,767000,Active
+EMP_0303,Pooja Kumar,Male,29,Branch Manager,Management,BR_012,05-05-2019,7.3,500000,Active
+EMP_0304,Simran Yadav,Male,58,Relationship Manager,Sales,BR_031,15-07-2018,8.1,330000,Active
+EMP_0305,Rahul Tiwari,Male,57,Teller,Operations,BR_006,03-08-2017,9,834000,Active
+EMP_0306,Rahul Mishra,Male,31,Sales Executive,Sales,BR_017,28-03-2023,3.4,859000,Active
+EMP_0307,Vikas Gupta,Female,36,Teller,Operations,BR_047,10-11-2022,3.8,838000,Active
+EMP_0308,Aarav Srivastava,Male,29,Customer Service Executive,Customer Service,BR_035,25-10-2023,2.8,565000,Active
+EMP_0309,Pooja Tiwari,Male,40,Operations Executive,Operations,BR_049,03-11-2016,9.8,620000,Active
+EMP_0310,Isha Agarwal,Female,26,Sales Executive,Sales,BR_050,27-05-2020,6.2,785000,Active
+EMP_0311,Simran Kumar,Male,36,Relationship Manager,Sales,BR_020,10-06-2017,9.2,720000,Active
+EMP_0312,Riya Yadav,Male,42,Relationship Manager,Sales,BR_044,28-10-2024,1.8,579000,Active
+EMP_0313,Vivaan Bansal,Female,44,Sales Executive,Sales,BR_022,10-12-2017,8.7,359000,Active
+EMP_0314,Vikas Dixit,Male,44,Relationship Manager,Sales,BR_029,01-08-2016,10.1,670000,Active
+EMP_0315,Ananya Shah,Male,30,Loan Officer,Loans,BR_027,08-04-2021,5.4,844000,Active
+EMP_0316,Aarav Saxena,Male,51,Operations Executive,Operations,BR_035,02-09-2024,2,434000,Active
+EMP_0317,Ananya Malhotra,Female,47,Branch Manager,Management,BR_010,27-01-2025,1.6,765000,Active
+EMP_0318,Manish Shah,Male,49,Branch Manager,Management,BR_014,22-01-2016,10.6,710000,Active
+EMP_0319,Saurabh Saxena,Male,39,Operations Executive,Operations,BR_044,02-08-2018,8,785000,Active
+EMP_0320,Shreya Bansal,Male,55,Sales Executive,Sales,BR_013,08-09-2016,9.9,807000,Active
+EMP_0321,Akash Yadav,Male,36,Relationship Manager,Sales,BR_025,22-05-2018,8.2,525000,Active
+EMP_0322,Vikas Dixit,Female,51,Operations Executive,Operations,BR_050,14-11-2020,5.8,359000,Active
+EMP_0323,Kavya Verma,Male,29,Operations Executive,Operations,BR_020,01-02-2018,8.5,554000,Active
+EMP_0324,Pooja Sharma,Female,31,Sales Executive,Sales,BR_027,29-09-2015,10.9,810000,Active
+EMP_0325,Priya Dixit,Male,41,Sales Executive,Sales,BR_009,11-08-2020,6,552000,Active
+EMP_0326,Manish Dixit,Male,42,Customer Service Executive,Customer Service,BR_028,01-08-2015,11.1,525000,Active
+EMP_0327,Manish Srivastava,Female,49,Relationship Manager,Sales,BR_033,29-06-2017,9.1,322000,Active
+EMP_0328,Saurabh Mehta,Male,33,Sales Executive,Sales,BR_034,03-01-2015,11.6,965000,Active
+EMP_0329,Kavya Mehta,Male,54,Customer Service Executive,Customer Service,BR_036,15-12-2015,10.7,799000,Active
+EMP_0330,Aditi Chauhan,Female,34,Sales Executive,Sales,BR_019,20-10-2019,6.8,789000,Active
+EMP_0331,Tanya Gupta,Male,41,Teller,Operations,BR_038,11-05-2024,2.3,824000,Active
+EMP_0332,Pooja Kumar,Male,56,Branch Manager,Management,BR_049,10-07-2023,3.1,754000,Active
+EMP_0333,Rahul Yadav,Female,41,Sales Executive,Sales,BR_001,02-02-2016,10.5,606000,Active
+EMP_0334,Aditya Chauhan,Male,47,Customer Service Executive,Customer Service,BR_027,20-05-2015,11.3,621000,Active
+EMP_0335,Sneha Malhotra,Male,55,Operations Executive,Operations,BR_025,20-09-2018,7.9,573000,Active
+EMP_0336,Neha Saxena,Male,58,Customer Service Executive,Customer Service,BR_014,05-03-2022,4.5,1124000,Active
+EMP_0337,Arjun Saxena,Male,40,Sales Executive,Sales,BR_042,20-03-2023,3.4,750000,Active
+EMP_0338,Rohan Tiwari,Male,37,Sales Executive,Sales,BR_047,21-01-2024,2.6,567000,Active
+EMP_0339,Arjun Srivastava,Female,29,Customer Service Executive,Customer Service,BR_027,06-10-2018,7.9,734000,Active
+EMP_0340,Kavya Mishra,Male,41,Sales Executive,Sales,BR_024,06-11-2016,9.8,468000,Active
+EMP_0341,Shreya Shah,Female,55,Teller,Operations,BR_039,16-04-2015,11.3,921000,Active
+EMP_0342,Ananya Bansal,Male,40,Sales Executive,Sales,BR_009,13-08-2016,10,531000,Active
+EMP_0343,Rajat Tiwari,Male,34,Teller,Operations,BR_035,19-09-2015,10.9,740000,Active
+EMP_0344,Tanya Mehta,Male,25,Operations Executive,Operations,BR_047,20-06-2024,2.2,842000,Active
+EMP_0345,Ananya Mishra,Female,36,Loan Officer,Loans,BR_036,14-12-2017,8.7,719000,Active
+EMP_0346,Karan Singh,Male,30,Loan Officer,Loans,BR_011,21-01-2024,2.6,667000,Active
+EMP_0347,Karan Singh,Male,58,Branch Manager,Management,BR_027,31-01-2021,5.5,652000,Active
+EMP_0348,Kavya Verma,Female,41,Teller,Operations,BR_033,05-12-2020,5.7,640000,Active
+EMP_0349,Ananya Bansal,Female,27,Loan Officer,Loans,BR_011,02-01-2020,6.6,546000,Active
+EMP_0350,Kavya Srivastava,Male,24,Customer Service Executive,Customer Service,BR_011,05-01-2024,2.6,569000,Active
+EMP_0351,Vivaan Chauhan,Female,53,Relationship Manager,Sales,BR_036,24-06-2015,11.2,916000,Active
+EMP_0352,Aarav Patel,Male,56,Operations Executive,Operations,BR_003,08-01-2016,10.6,630000,Active
+EMP_0353,Neha Singh,Male,50,Customer Service Executive,Customer Service,BR_040,29-08-2019,7,509000,Active
+EMP_0354,Kavya Singh,Male,26,Sales Executive,Sales,BR_028,05-05-2019,7.3,557000,Active
+EMP_0355,Karan Chauhan,Male,25,Relationship Manager,Sales,BR_004,01-01-2021,5.6,848000,Active
+EMP_0356,Tanya Mishra,Male,29,Operations Executive,Operations,BR_050,12-02-2023,3.5,772000,Active
+EMP_0357,Simran Bansal,Female,49,Relationship Manager,Sales,BR_041,18-06-2021,5.2,751000,Active
+EMP_0358,Sneha Gupta,Male,50,Relationship Manager,Sales,BR_026,31-10-2017,8.8,604000,Active
+EMP_0359,Ankit Patel,Female,53,Teller,Operations,BR_002,08-08-2018,8,753000,Active
+EMP_0360,Tanya Chauhan,Female,25,Operations Executive,Operations,BR_003,11-04-2023,3.4,534000,Active
+EMP_0361,Rajat Kumar,Female,27,Relationship Manager,Sales,BR_035,20-03-2017,9.4,603000,Active
+EMP_0362,Nandini Mishra,Female,55,Loan Officer,Loans,BR_046,18-07-2020,6.1,825000,Active
+EMP_0363,Vikas Malhotra,Female,56,Teller,Operations,BR_042,04-12-2020,5.7,807000,Active
+EMP_0364,Riya Mishra,Female,48,Operations Executive,Operations,BR_002,03-04-2023,3.4,473000,Active
+EMP_0365,Aarav Srivastava,Male,25,Customer Service Executive,Customer Service,BR_028,10-11-2022,3.8,496000,Active
+EMP_0366,Tanya Srivastava,Male,24,Loan Officer,Loans,BR_033,11-02-2020,6.5,670000,Active
+EMP_0367,Neha Mishra,Male,24,Teller,Operations,BR_020,27-05-2018,8.2,961000,Active
+EMP_0368,Sneha Yadav,Male,47,Teller,Operations,BR_006,18-01-2019,7.6,305000,Active
+EMP_0369,Ananya Yadav,Male,53,Teller,Operations,BR_041,12-07-2019,7.1,700000,Active
+EMP_0370,Priya Agarwal,Female,45,Sales Executive,Sales,BR_020,30-05-2017,9.2,402000,Active
+EMP_0371,Kavya Chauhan,Male,31,Relationship Manager,Sales,BR_002,17-11-2021,4.8,536000,Active
+EMP_0372,Isha Kumar,Female,50,Operations Executive,Operations,BR_017,17-04-2017,9.3,584000,Active
+EMP_0373,Neha Sharma,Male,24,Teller,Operations,BR_040,19-02-2022,4.5,574000,Inactive
+EMP_0374,Priya Mehta,Male,52,Teller,Operations,BR_039,08-04-2023,3.4,554000,Active
+EMP_0375,Vikas Malhotra,Male,54,Relationship Manager,Sales,BR_031,31-07-2025,1.1,651000,Active
+EMP_0376,Meera Sharma,Male,48,Relationship Manager,Sales,BR_045,22-04-2016,10.3,554000,Active
+EMP_0377,Karan Kumar,Male,54,Teller,Operations,BR_032,11-05-2023,3.3,387000,Active
+EMP_0378,Meera Jain,Male,43,Branch Manager,Management,BR_033,12-12-2015,10.7,790000,Active
+EMP_0379,Pooja Chauhan,Male,39,Operations Executive,Operations,BR_008,17-09-2018,7.9,786000,Active
+EMP_0380,Sneha Verma,Male,33,Customer Service Executive,Customer Service,BR_047,09-12-2016,9.7,802000,Active
+EMP_0381,Rohan Agarwal,Male,56,Teller,Operations,BR_001,14-10-2016,9.8,373000,Active
+EMP_0382,Vikas Joshi,Male,47,Operations Executive,Operations,BR_006,05-12-2016,9.7,704000,Active
+EMP_0383,Rohan Agarwal,Male,29,Customer Service Executive,Customer Service,BR_002,26-06-2015,11.2,772000,Active
+EMP_0384,Varun Singh,Male,57,Customer Service Executive,Customer Service,BR_007,21-01-2024,2.6,464000,Active
+EMP_0385,Rahul Singh,Male,24,Sales Executive,Sales,BR_038,03-09-2015,11,652000,Active
+EMP_0386,Riya Srivastava,Male,43,Sales Executive,Sales,BR_045,21-05-2019,7.2,629000,Inactive
+EMP_0387,Saurabh Dixit,Male,29,Customer Service Executive,Customer Service,BR_023,10-09-2022,3.9,982000,Active
+EMP_0388,Kavya Saxena,Female,46,Sales Executive,Sales,BR_029,23-11-2025,0.7,996000,Active
+EMP_0389,Akash Shah,Female,37,Operations Executive,Operations,BR_042,23-05-2024,2.2,350000,Active
+EMP_0390,Kavya Patel,Female,38,Loan Officer,Loans,BR_038,05-07-2016,10.1,1099000,Active
+EMP_0391,Rohan Malhotra,Male,46,Relationship Manager,Sales,BR_023,12-11-2025,0.8,485000,Active
+EMP_0392,Rohan Srivastava,Male,49,Customer Service Executive,Customer Service,BR_050,10-03-2022,4.4,827000,Active
+EMP_0393,Aditi Srivastava,Male,36,Customer Service Executive,Customer Service,BR_048,22-12-2016,9.7,825000,Active
+EMP_0394,Varun Bansal,Female,58,Relationship Manager,Sales,BR_017,08-12-2019,6.7,471000,Active
+EMP_0395,Aditya Kumar,Female,40,Relationship Manager,Sales,BR_031,05-02-2025,1.5,739000,Active
+EMP_0396,Tanya Joshi,Female,27,Sales Executive,Sales,BR_007,28-04-2019,7.3,631000,Active
+EMP_0397,Aditya Yadav,Female,22,Customer Service Executive,Customer Service,BR_013,07-01-2017,9.6,750000,Active
+EMP_0398,Tanya Verma,Male,29,Operations Executive,Operations,BR_015,17-08-2024,2,692000,Active
+EMP_0399,Rajat Dixit,Female,47,Customer Service Executive,Customer Service,BR_043,26-06-2025,1.1,865000,Active
+EMP_0400,Arjun Kumar,Female,41,Relationship Manager,Sales,BR_043,24-09-2025,0.9,664000,Active
+EMP_0401,Rahul Singh,Male,34,Teller,Operations,BR_003,07-07-2025,1.1,620000,Active
+EMP_0402,Rajat Dixit,Female,39,Operations Executive,Operations,BR_025,08-08-2024,2,847000,Active
+EMP_0403,Varun Mishra,Male,53,Customer Service Executive,Customer Service,BR_038,01-01-2020,6.6,754000,Active
+EMP_0404,Rahul Yadav,Female,43,Relationship Manager,Sales,BR_049,11-02-2017,9.5,782000,Active
+EMP_0405,Karan Bansal,Female,24,Relationship Manager,Sales,BR_027,15-10-2021,4.8,530000,Active
+EMP_0406,Riya Chauhan,Male,23,Loan Officer,Loans,BR_030,06-06-2017,9.2,462000,Active
+EMP_0407,Aditi Mishra,Female,39,Loan Officer,Loans,BR_027,16-03-2020,6.4,548000,Active
+EMP_0408,Ananya Mishra,Male,36,Customer Service Executive,Customer Service,BR_023,21-03-2022,4.4,538000,Active
+EMP_0409,Arjun Mishra,Female,53,Branch Manager,Management,BR_025,31-05-2025,1.2,792000,Active
+EMP_0410,Ankit Gupta,Female,43,Loan Officer,Loans,BR_034,07-03-2018,8.5,826000,Active
+EMP_0411,Aarav Bansal,Female,50,Operations Executive,Operations,BR_048,09-10-2017,8.9,622000,Active
+EMP_0412,Akash Srivastava,Female,43,Sales Executive,Sales,BR_023,31-01-2023,3.6,908000,Active
+EMP_0413,Simran Kumar,Male,34,Loan Officer,Loans,BR_044,26-01-2015,11.6,896000,Active
+EMP_0414,Rajat Chauhan,Male,46,Relationship Manager,Sales,BR_045,25-03-2021,5.4,694000,Active
+EMP_0415,Ananya Agarwal,Male,44,Customer Service Executive,Customer Service,BR_015,17-03-2023,3.4,502000,Active
+EMP_0416,Varun Sharma,Male,48,Customer Service Executive,Customer Service,BR_049,22-01-2021,5.6,934000,Active
+EMP_0417,Aditya Singh,Male,29,Teller,Operations,BR_029,23-03-2019,7.4,639000,Active
+EMP_0418,Sneha Shah,Male,45,Operations Executive,Operations,BR_030,12-02-2024,2.5,673000,Active
+EMP_0419,Saurabh Yadav,Male,32,Operations Executive,Operations,BR_003,30-01-2019,7.6,589000,Active
+EMP_0420,Rohan Kumar,Male,51,Operations Executive,Operations,BR_029,25-10-2022,3.8,490000,Active
+EMP_0421,Nikhil Bansal,Female,51,Operations Executive,Operations,BR_022,08-02-2020,6.5,386000,Active
+EMP_0422,Ananya Saxena,Male,45,Operations Executive,Operations,BR_024,17-04-2015,11.3,764000,Active
+EMP_0423,Varun Chauhan,Female,57,Relationship Manager,Sales,BR_009,01-11-2020,5.8,509000,Active
+EMP_0424,Aditya Kumar,Male,41,Relationship Manager,Sales,BR_048,18-07-2015,11.1,1201000,Active
+EMP_0425,Akash Verma,Male,22,Customer Service Executive,Customer Service,BR_036,29-03-2025,1.4,455000,Active
+EMP_0426,Isha Saxena,Male,44,Sales Executive,Sales,BR_038,14-08-2021,5,424000,Inactive
+EMP_0427,Riya Tiwari,Male,50,Relationship Manager,Sales,BR_015,03-02-2019,7.5,742000,Active
+EMP_0428,Aditya Shah,Male,25,Teller,Operations,BR_020,07-05-2020,6.3,925000,Active
+EMP_0429,Riya Yadav,Male,25,Sales Executive,Sales,BR_018,23-10-2021,4.8,662000,Active
+EMP_0430,Ananya Gupta,Male,32,Sales Executive,Sales,BR_016,11-11-2017,8.8,753000,Active
+EMP_0431,Arjun Yadav,Male,53,Relationship Manager,Sales,BR_014,04-03-2018,8.5,318000,Active
+EMP_0432,Rohan Bansal,Female,41,Customer Service Executive,Customer Service,BR_002,10-08-2019,7,528000,Active
+EMP_0433,Arjun Joshi,Male,58,Relationship Manager,Sales,BR_046,04-11-2017,8.8,457000,Active
+EMP_0434,Tanya Srivastava,Female,54,Teller,Operations,BR_007,04-05-2023,3.3,309000,Active
+EMP_0435,Vivaan Saxena,Male,42,Sales Executive,Sales,BR_037,22-02-2016,10.5,671000,Active
+EMP_0436,Rahul Jain,Female,47,Teller,Operations,BR_035,04-02-2024,2.5,300000,Active
+EMP_0437,Tanya Joshi,Female,34,Customer Service Executive,Customer Service,BR_009,01-11-2018,7.8,412000,Active
+EMP_0438,Vivaan Chauhan,Female,25,Customer Service Executive,Customer Service,BR_023,04-03-2021,5.5,553000,Active
+EMP_0439,Rohan Joshi,Female,36,Customer Service Executive,Customer Service,BR_021,25-09-2016,9.9,500000,Active
+EMP_0440,Ananya Mishra,Male,43,Teller,Operations,BR_018,29-03-2019,7.4,721000,Active
+EMP_0441,Rajat Gupta,Male,28,Teller,Operations,BR_050,20-04-2023,3.3,705000,Active
+EMP_0442,Tanya Kumar,Male,30,Relationship Manager,Sales,BR_029,23-12-2017,8.7,811000,Active
+EMP_0443,Amit Jain,Female,22,Operations Executive,Operations,BR_001,15-06-2016,10.2,785000,Active
+EMP_0444,Neha Jain,Female,49,Relationship Manager,Sales,BR_009,28-09-2020,5.9,855000,Active
+EMP_0445,Akash Mehta,Male,55,Operations Executive,Operations,BR_012,14-10-2016,9.8,650000,Active
+EMP_0446,Isha Agarwal,Female,52,Relationship Manager,Sales,BR_048,18-06-2018,8.2,705000,Active
+EMP_0447,Shreya Yadav,Male,36,Customer Service Executive,Customer Service,BR_003,15-12-2019,6.7,742000,Active
+EMP_0448,Nandini Bansal,Female,43,Teller,Operations,BR_010,16-03-2021,5.4,675000,Inactive
+EMP_0449,Sneha Kumar,Female,57,Relationship Manager,Sales,BR_031,13-01-2022,4.6,579000,Active
+EMP_0450,Sneha Joshi,Male,43,Loan Officer,Loans,BR_036,11-06-2022,4.2,590000,Active
+EMP_0451,Ankit Patel,Female,32,Loan Officer,Loans,BR_048,15-04-2024,2.3,503000,Active
+EMP_0452,Varun Jain,Female,34,Customer Service Executive,Customer Service,BR_030,23-09-2015,10.9,726000,Active
+EMP_0453,Sneha Singh,Male,48,Teller,Operations,BR_035,26-12-2018,7.6,633000,Active
+EMP_0454,Vikas Yadav,Male,38,Teller,Operations,BR_024,05-01-2015,11.6,531000,Active
+EMP_0455,Saurabh Malhotra,Male,52,Operations Executive,Operations,BR_011,07-02-2015,11.5,531000,Active
+EMP_0456,Aarav Joshi,Female,53,Customer Service Executive,Customer Service,BR_030,02-05-2017,9.3,432000,Active
+EMP_0457,Shreya Bansal,Male,23,Sales Executive,Sales,BR_036,31-07-2021,5.1,826000,Active
+EMP_0458,Rohan Malhotra,Female,48,Customer Service Executive,Customer Service,BR_042,03-11-2024,1.8,664000,Active
+EMP_0459,Nikhil Agarwal,Female,35,Customer Service Executive,Customer Service,BR_030,06-07-2023,3.1,495000,Active
+EMP_0460,Vikas Shah,Male,41,Relationship Manager,Sales,BR_019,09-02-2022,4.5,796000,Active
+EMP_0461,Aditi Dixit,Male,31,Operations Executive,Operations,BR_050,24-07-2023,3.1,549000,Active
+EMP_0462,Aditya Malhotra,Female,35,Operations Executive,Operations,BR_037,21-11-2016,9.7,397000,Active
+EMP_0463,Karan Verma,Female,34,Teller,Operations,BR_008,28-03-2024,2.4,834000,Inactive
+EMP_0464,Priya Srivastava,Male,23,Loan Officer,Loans,BR_026,17-10-2024,1.8,553000,Active
+EMP_0465,Ananya Saxena,Male,50,Loan Officer,Loans,BR_013,17-01-2016,10.6,576000,Active
+EMP_0466,Aditya Mishra,Male,27,Loan Officer,Loans,BR_044,03-03-2020,6.5,657000,Active
+EMP_0467,Akash Yadav,Female,35,Sales Executive,Sales,BR_041,18-02-2024,2.5,856000,Active
+EMP_0468,Ananya Agarwal,Male,29,Loan Officer,Loans,BR_040,27-03-2020,6.4,654000,Active
+EMP_0469,Ananya Malhotra,Female,27,Relationship Manager,Sales,BR_017,31-03-2024,2.4,434000,Active
+EMP_0470,Manish Saxena,Male,35,Relationship Manager,Sales,BR_045,17-04-2025,1.3,748000,Active
+EMP_0471,Sneha Tiwari,Female,55,Operations Executive,Operations,BR_049,22-03-2020,6.4,563000,Active
+EMP_0472,Varun Yadav,Male,56,Loan Officer,Loans,BR_033,28-08-2015,11,990000,Active
+EMP_0473,Karan Tiwari,Male,36,Operations Executive,Operations,BR_021,28-09-2018,7.9,650000,Active
+EMP_0474,Varun Shah,Female,40,Relationship Manager,Sales,BR_045,14-05-2017,9.3,300000,Active
+EMP_0475,Ankit Patel,Female,58,Sales Executive,Sales,BR_041,19-03-2020,6.4,714000,Active
+EMP_0476,Nandini Chauhan,Male,30,Relationship Manager,Sales,BR_014,11-06-2021,5.2,1000000,Active
+EMP_0477,Nandini Sharma,Male,56,Customer Service Executive,Customer Service,BR_048,07-02-2020,6.5,934000,Active
+EMP_0478,Saurabh Kumar,Male,25,Branch Manager,Management,BR_037,24-02-2017,9.5,980000,Active
+EMP_0479,Simran Joshi,Male,30,Relationship Manager,Sales,BR_015,25-04-2018,8.3,466000,Active
+EMP_0480,Amit Mehta,Male,34,Operations Executive,Operations,BR_039,23-06-2022,4.2,814000,Active
+EMP_0481,Ananya Dixit,Female,23,Customer Service Executive,Customer Service,BR_029,19-04-2015,11.3,520000,Active
+EMP_0482,Manish Verma,Male,52,Sales Executive,Sales,BR_008,10-05-2017,9.3,690000,Active
+EMP_0483,Saurabh Tiwari,Female,53,Loan Officer,Loans,BR_026,25-10-2024,1.8,421000,Active
+EMP_0484,Shreya Saxena,Male,36,Customer Service Executive,Customer Service,BR_004,03-02-2016,10.5,534000,Active
+EMP_0485,Kavya Sharma,Male,52,Sales Executive,Sales,BR_043,25-07-2019,7.1,528000,Active
+EMP_0486,Isha Agarwal,Female,50,Relationship Manager,Sales,BR_021,11-04-2017,9.4,812000,Active
+EMP_0487,Rajat Bansal,Male,51,Operations Executive,Operations,BR_006,25-02-2016,10.5,794000,Active
+EMP_0488,Meera Verma,Female,51,Teller,Operations,BR_026,26-08-2019,7,700000,Active
+EMP_0489,Vikas Joshi,Male,43,Teller,Operations,BR_032,26-09-2020,5.9,407000,Active
+EMP_0490,Riya Mishra,Female,26,Loan Officer,Loans,BR_035,08-12-2016,9.7,594000,Active
+EMP_0491,Akash Saxena,Female,56,Relationship Manager,Sales,BR_017,09-11-2015,10.8,516000,Active
+EMP_0492,Karan Joshi,Female,44,Operations Executive,Operations,BR_044,25-06-2016,10.2,807000,Active
+EMP_0493,Kavya Saxena,Male,55,Customer Service Executive,Customer Service,BR_002,02-03-2022,4.5,862000,Active
+EMP_0494,Ankit Kumar,Male,57,Relationship Manager,Sales,BR_049,18-06-2024,2.2,840000,Active
+EMP_0495,Riya Jain,Male,28,Customer Service Executive,Customer Service,BR_033,25-12-2016,9.7,514000,Active
+EMP_0496,Rajat Yadav,Male,36,Teller,Operations,BR_035,11-07-2018,8.1,300000,Active
+EMP_0497,Sneha Kumar,Male,29,Sales Executive,Sales,BR_022,13-10-2018,7.9,332000,Active
+EMP_0498,Sneha Kumar,Male,23,Teller,Operations,BR_005,20-12-2018,7.7,906000,Active
+EMP_0499,Rajat Sharma,Male,57,Teller,Operations,BR_003,08-09-2017,8.9,578000,Active
+EMP_0500,Vikas Malhotra,Male,56,Relationship Manager,Sales,BR_016,11-08-2015,11,515000,Active

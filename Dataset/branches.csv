@@ -1,0 +1,51 @@
+Branch_ID,Branch_Name,City,State,Branch_Type,Manager_Employee_ID,Opening_Date,Branch_Status
+BR_001,Delhi Branch 01,Delhi,Delhi,Metro,EMP_0001,10-09-2018,Active
+BR_002,Chennai Branch 02,Chennai,Tamil Nadu,Urban,EMP_0002,03-07-2009,Active
+BR_003,Hyderabad Branch 03,Hyderabad,Telangana,Metro,EMP_0003,07-09-2019,Active
+BR_004,Kolkata Branch 04,Kolkata,West Bengal,Metro,EMP_0004,12-09-2009,Inactive
+BR_005,Kolkata Branch 05,Kolkata,West Bengal,Urban,EMP_0005,14-12-2011,Active
+BR_006,Jaipur Branch 06,Jaipur,Rajasthan,Semi-Urban,EMP_0006,05-08-2015,Active
+BR_007,Delhi Branch 07,Delhi,Delhi,Rural,EMP_0007,08-01-2007,Active
+BR_008,Hyderabad Branch 08,Hyderabad,Telangana,Urban,EMP_0008,30-11-2013,Active
+BR_009,Mumbai Branch 09,Mumbai,Maharashtra,Urban,EMP_0009,30-01-2013,Active
+BR_010,Delhi Branch 10,Delhi,Delhi,Urban,EMP_0010,18-07-2017,Active
+BR_011,Bengaluru Branch 11,Bengaluru,Karnataka,Metro,EMP_0011,09-12-2020,Active
+BR_012,Lucknow Branch 12,Lucknow,Uttar Pradesh,Metro,EMP_0012,19-08-2015,Active
+BR_013,Chennai Branch 13,Chennai,Tamil Nadu,Urban,EMP_0013,20-07-2011,Active
+BR_014,Chennai Branch 14,Chennai,Tamil Nadu,Metro,EMP_0014,03-07-2011,Active
+BR_015,Chennai Branch 15,Chennai,Tamil Nadu,Urban,EMP_0015,09-09-2011,Active
+BR_016,Chennai Branch 16,Chennai,Tamil Nadu,Urban,EMP_0016,10-01-2018,Active
+BR_017,Bengaluru Branch 17,Bengaluru,Karnataka,Semi-Urban,EMP_0017,21-02-2010,Active
+BR_018,Noida Branch 18,Noida,Uttar Pradesh,Semi-Urban,EMP_0018,03-09-2007,Active
+BR_019,Jaipur Branch 19,Jaipur,Rajasthan,Urban,EMP_0019,08-05-2010,Active
+BR_020,Kolkata Branch 20,Kolkata,West Bengal,Semi-Urban,EMP_0020,13-05-2005,Active
+BR_021,Bengaluru Branch 21,Bengaluru,Karnataka,Semi-Urban,EMP_0021,13-09-2006,Active
+BR_022,Pune Branch 22,Pune,Maharashtra,Urban,EMP_0022,11-06-2006,Active
+BR_023,Noida Branch 23,Noida,Uttar Pradesh,Urban,EMP_0023,06-05-2017,Active
+BR_024,Lucknow Branch 24,Lucknow,Uttar Pradesh,Urban,EMP_0024,23-07-2016,Active
+BR_025,Chennai Branch 25,Chennai,Tamil Nadu,Metro,EMP_0025,24-02-2016,Active
+BR_026,Hyderabad Branch 26,Hyderabad,Telangana,Metro,EMP_0026,23-05-2012,Active
+BR_027,Kolkata Branch 27,Kolkata,West Bengal,Metro,EMP_0027,22-06-2016,Active
+BR_028,Jaipur Branch 28,Jaipur,Rajasthan,Semi-Urban,EMP_0028,01-08-2007,Active
+BR_029,Bengaluru Branch 29,Bengaluru,Karnataka,Urban,EMP_0029,31-05-2019,Active
+BR_030,Kolkata Branch 30,Kolkata,West Bengal,Semi-Urban,EMP_0030,07-01-2013,Active
+BR_031,Kolkata Branch 31,Kolkata,West Bengal,Semi-Urban,EMP_0031,04-01-2020,Active
+BR_032,Mumbai Branch 32,Mumbai,Maharashtra,Urban,EMP_0032,10-06-2007,Active
+BR_033,Delhi Branch 33,Delhi,Delhi,Urban,EMP_0033,16-12-2012,Active
+BR_034,Bengaluru Branch 34,Bengaluru,Karnataka,Metro,EMP_0034,22-02-2016,Active
+BR_035,Jaipur Branch 35,Jaipur,Rajasthan,Metro,EMP_0035,06-12-2012,Active
+BR_036,Delhi Branch 36,Delhi,Delhi,Urban,EMP_0036,21-02-2012,Active
+BR_037,Jaipur Branch 37,Jaipur,Rajasthan,Urban,EMP_0037,30-08-2007,Active
+BR_038,Jaipur Branch 38,Jaipur,Rajasthan,Urban,EMP_0038,05-02-2011,Active
+BR_039,Mumbai Branch 39,Mumbai,Maharashtra,Semi-Urban,EMP_0039,27-10-2008,Active
+BR_040,Hyderabad Branch 40,Hyderabad,Telangana,Urban,EMP_0040,29-10-2009,Active
+BR_041,Noida Branch 41,Noida,Uttar Pradesh,Urban,EMP_0041,10-12-2015,Active
+BR_042,Chennai Branch 42,Chennai,Tamil Nadu,Urban,EMP_0042,01-02-2015,Active
+BR_043,Chennai Branch 43,Chennai,Tamil Nadu,Urban,EMP_0043,19-09-2014,Active
+BR_044,Pune Branch 44,Pune,Maharashtra,Metro,EMP_0044,16-10-2010,Active
+BR_045,Delhi Branch 45,Delhi,Delhi,Urban,EMP_0045,10-05-2020,Active
+BR_046,Lucknow Branch 46,Lucknow,Uttar Pradesh,Metro,EMP_0046,28-05-2006,Active
+BR_047,Kolkata Branch 47,Kolkata,West Bengal,Urban,EMP_0047,26-06-2010,Active
+BR_048,Jaipur Branch 48,Jaipur,Rajasthan,Semi-Urban,EMP_0048,21-11-2006,Active
+BR_049,Hyderabad Branch 49,Hyderabad,Telangana,Metro,EMP_0049,04-06-2010,Active
+BR_050,Chennai Branch 50,Chennai,Tamil Nadu,Metro,EMP_0050,23-05-2020,Active
